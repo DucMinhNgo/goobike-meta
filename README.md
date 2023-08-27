@@ -7,3 +7,4 @@ git rm -rf goobike-admin rm -rf .git/modules/goobike-admin
 
 # Pull child repo
 git submodule update --init --recursive git submodule update --recursive --remote
+git submodule update --init --recursive --remote
