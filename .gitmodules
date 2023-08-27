@@ -1,0 +1,3 @@
+[submodule "goobike-backend"]
+	path = goobike-backend
+	url = https://github.com/DucMinhNgo/goobike-backend
