@@ -1,3 +1,3 @@
-[submodule "goobike-backend"]
-	path = goobike-backend
-	url = https://github.com/DucMinhNgo/goobike-backend
+[submodule "goobike-mobile"]
+	path = goobike-mobile
+	url = https://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@github.com/DucMinhNgo/goobike-mobile.git
