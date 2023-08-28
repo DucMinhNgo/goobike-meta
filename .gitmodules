@@ -1,9 +1,9 @@
 [submodule "goobike-mobile"]
 	path = goobike-mobile
-	url = https://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@github.com/DucMinhNgo/goobike-mobile.git
+	url = https://github.com/DucMinhNgo/goobike-mobile.git
 [submodule "goobike-backend"]
 	path = goobike-backend
-	url = https://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@github.com/DucMinhNgo/goobike-backend.git
+	url = https://github.com/DucMinhNgo/goobike-backend.git
 [submodule "goobike-admin"]
 	path = goobike-admin
-	url = https://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@github.com/DucMinhNgo/goobike-admin.git
+	url = https://github.com/DucMinhNgo/goobike-admin.git
